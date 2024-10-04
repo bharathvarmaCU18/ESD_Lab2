@@ -1,0 +1,5 @@
+../Core/Src/main.c:61:6:TIM2_IRQHandler	0	static
+../Core/Src/main.c:71:6:timer2_Int_set	0	static,ignoring_inline_asm
+../Core/Src/main.c:83:6:timer2_init	0	static
+../Core/Src/main.c:87:6:init_led	0	static
+../Core/Src/main.c:103:5:main	8	static
